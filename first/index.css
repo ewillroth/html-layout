@@ -1,0 +1,28 @@
+nav {
+	background: rgb(57, 57, 57);
+	height: 120px;
+}
+
+.left,
+.right {
+	background: rgb(220, 219, 219);
+}
+
+.left {
+	float: left;
+	padding: 400px 6%;
+}
+
+.right {
+	float: right;
+	padding: 400px 6%;
+}
+
+.bottom {
+	background: rgb(35, 35, 35);
+	width: 76%;
+	padding-top: 70px;
+	margin: 0px 12%;
+	position: fixed;
+	bottom: 0px;
+}
